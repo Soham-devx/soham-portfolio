@@ -4,8 +4,8 @@ export const site = {
   github: 'https://github.com/Soham-devx',
   githubHandle: 'Soham-devx',
   // Set these to real values to turn the contact rows into live links.
-  email: null as string | null,
-  linkedin: null as string | null,
+  email:'sohamdev4@gmail.com' as string | null,
+  linkedin:'https://www.linkedin.com/in/soham-vade-196339327/' as string | null,
 }
 
 export const navLinks = [
